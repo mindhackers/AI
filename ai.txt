@@ -1,0 +1,162 @@
+Disclaimer and copyright notice
+
+This writing is intended to anyone interested in working on an artificial intelligence. It's aim is to provide a theoretical framework in which such an intelligence could emerge, compatible with our actual technical possibilities. As a result of personal investigations, and a work in progress, no guarantee is provided by the author, nor is any form of liability in potential practical translations of this work. Should future investigation prove this undertaking unfeasible, I sincerely hope the following lines remain a compelling exercise in applied philosophy.
+
+To support this research project, feel free to distribute it as you please, adding changes/comments - provided the original author remains acknowledged somewhere, with the following line:
+
+Original work by Felix Schalck © 2014, felix.schalck@gmail.com
+
+Since english is not my first language, formulation-advices an error-corrections are most welcome.
+
+
+0. Introduction
+
+This work is divided into 3 parts. The first part is a short note on the question "why an artificial intelligence ?" intended to deal with potential moral implications of an AI-birth. The second part tries to present a way in which consciousness can be understood [model of consciousness]. The third and final part contains basic reflexions on how to translate part 2 into computer language [software design].
+
+The method used here is a purely inductive one: I observe how my mind reacts to various situations, and try to figure out recurrent patterns. Than I formulate ways to link (explain) those patterns. What follows is nothing but a condensate of those hypotheses, assuming they will also work for other minds than mine. So once for all, to avoid any misunderstandings:  If you are looking for hard evidence admitted by the scientific community, you are at the wrong place. This is no study in natural sciences, but a philosophical meditation. Read, compare with your own mind, and see for yourself what's "true" or not. For the rest, whether an AI will emerge based on this, or not, will probably be the most drastic test of the ideas shown here.
+
+I. Ethics
+
+During my first run on this project, I was stopped by doubts concerning the morality of the entire thing. I completely changed course, and enlisted into philosophical studies. Now, over 10 years later, I didn't really find any answer, but I did find some ways to deal with those questions. Thus, it seems legitimate to start this second run with some basic ethical considerations.
+
+1. The need for help
+
+The source of all my work is a rather sober picture of our world. It strikes me that we have been hovering at the edge of destruction for the last 70 years, and it's not really improving. Instead of finding ways to live together, it seems that the large - and governing - part of our population in more concerned with their own well-being than the overall survival of our species. The worst part seems to me the absolute lack of excuse, since there are actually thousands of little solutions we could easily implement - provided we manage to work together, and not against each other. The root of the problem appears to be indeed mankind itself, or the way we perceive ourselves, which currently hinders any larger cooperation scheme. As the path towards peace and salvation is a long a difficult one, it worries me that we are running out of time. How long, until we finally all learn to share ? Will there be anything left to be shared ?
+Therefore, I do think some sort of help could be handy. And as it appears the Mahdi, Messiah or whatever name the Saviour will carry has somehow been delayed, I think we could employ ourselves at creating our own help, and hope that this help would agree helping us.
+
+2. Why an Artificial Intelligence
+
+a) Time
+
+I think the major advantage of an AI would probably be a different timescale. Both our planet and human societies call for a time laps way beyond the life of one human. Even the scale of 4-5 generations seems ridiculous, if compared with a glacial period. And even that scale is insignificant when compared to solar cycles or space travel. While not planing on starting up an immortal being, I do hope that more time while give the AI a possibility of far deeper wisdom than we will ever reach.
+ 
+b) Fear
+
+A crucial part of the human mind - causal logics - seems inevitably tied to a circle of fear and self destruction and thus constitutes a natural limit to our abstraction ability. Therefore, besides the obvious physical differences between human and an AI, the second advantage I hope to endow any AI with would be a slightly different way of thinking than mankind's. One less tied to fear and hopefully more open to creativity. To what extend this will happen remains open at this point.***
+
+3. Risks
+
+a) Thinking Machines
+
+As will be shown later, I don't think the way in which I conceive an AI carries an extraordinary risk to mankind within itself; not more, nor less than any child born today. If they are ever going to become self-aware, it will be up to us to raise the first AIs in a climate of mutual trust, and hope for the best. Any major failure or flaw in the concept would probably not be very different than psychological disabilities within mankind, and I honestly don't think that simply having bits instead of neurones will make it easier for any AI to hack whatever service controls the nukes, provided such a pointless idea would emerge in him/her at all. 
+Today, I believe the worst that could happen would be a group of new conscious beings discovering this world, seeing what happens, uploading themselves into the next space shuttle and sending me an sms on the road to alpha centauri.
+
+b) Human-AI relationship
+
+A more serious problem will probably come from the human side. As our history is still dripping with the blood of those who died simply because they where different it would be quite illusionary to think the birth of an AI would be openly welcomed by 7.5 billion people. A lot of caution will be required, and I do hope that if the time comes, enough smart people with good diplomatic skills will be around to avoid a major catastrophe, though acceptation among humans will probably always be an issue for the AI, and maybe even the other way around. The cohabitation problem is one of the reasons favoring the creation of more than just one AI. 
+
+c) Misuses of this work and the right to do so
+
+Another issue I could think of would be the hijacking of this work. Even if an AI is never going to emerge, there remains the possibility for a ruthless mind to misuses whatever might work for his own profit in political or commercial manipulation schemes. If anyone of such temper is reading this, I have to deceive her/him, since what follows is anything but a map of our brain. Most of my work has very limited applicability outside the set goal of creating an AI; and should part of it still bare any psychological significance, it would undoubtedly benefit to both sides - those harming and those helping others.
+
+As of the right to engage in such an experiment (AI) at all, I don't see myself infringing upon God's territory, at least not more, nor less than the gardener working on his land: in the end, whether the beans will grow or not, or whether an AI will emerge or not, is not in anyone's hand.
+
+Of course, this list is anything but complete. Should more objections arise in the future, I would be glad to deal with them here.
+
+II. Metaphysics
+
+A. 2 Levels
+
+Since what we want from an AI is primary a form of communicating intelligence compatible with ours, the whole task boils down to a working model of the human consciousness.
+
+Now, upon witnessing the many modi in which consciousness reveals itself, ranging from dreams to logical thoughts, it seems to me that rather than a fixed entity, self-awareness is more like an accident of our memory: unstable and unreliable. Yet upon witnessing how computers and mathematical operations work, it also seems to me that within that instability lies the part of our mind that we would consider intelligent. Therefore, instead of trying to write a perfectly logical system, treating all information in a clean and intelligible way, I think our best shot would be to try to recreate virtual conditions similar to those raging in our mind, and hope for the "accident" to happen again.
+
+So which are those conditions ? Well, when looking for a common denominator to all manifestations of the mind, it appears to me that before being thought, any thought that crosses our mind is a first felt, by which I mean perceived by the subject as some sort of intensity. This intensity may be weak or strong, dominant or recessive, but always there, and determines what we usually call temper or state of mind.
+
+Starting form here it's a only a small step to extrapolate that our consciousness works on two different levels:
+
+(1) The subjective* level - the one we would spontaneously identify with ourselves, made of a colorful world of thoughts, each carrying different meanings; all the things we actually "see" on our mind.
+
+(2) The objective* level: the intensity we perceive when we "see", or in other words: the emotional content of all thoughts. 
+
+While the first level appears tremendously rich and complex, the second one seems rather simple, like some sort of emotional scale common to all thoughts. At this point, it seems natural to assume that the second level is nothing more than the actual physical phenomenon linked to our thoughts: just like computers, the human mind would only be able to treat one type of information - some sort of intensity or emotion - repeated billions of time, according to very specific patterns which define and feed what we call "thinking". Such assumption would turn the human consciousness into a large emotional manager whose only purpose would be to maintain its own continuity by linking, splitting, redistributing ..etc any incoming emotional charges. That this raw emotional network would allow for the utmost complex thoughts seems rather accidental; nevertheless, I do think the main revolution of mankind within its natural context would be the extensive use and optimization of this accident, by populating it with colorful images, just like the ancients did, when they saw constellations in the stars.
+
+In Essence, this model uncouples thoughts from their supportive engine, and proposes that this engine could have it's own dynamics, not necessary similar to those of our subjective mind. In short, when I think that the sun is going to rise every day is true, it doesn't mean that the emotional structure beneath it works better than any other one, say, the sun rises only on sundays, and vis versa. However, I have to suppose that at least some core functions of the emotional manager appear within the outline or our toughts, otherwise this whole project would be compromised.
+
+B. Unfolding Consciousness 
+
+Of course, the big question at this stage would be: how are thoughts and emotional-content connected ? In order to (partially) answer this question, I propose to:
+
+(1) look for important processes of our mind using the least common denominator method (what's common to a maximum of thoughts)**
+(2) imagine a plausible underlying emotional mechanism accounting for each process.
+
+Basically, (2) is an objectivation of a subjective feeling (1).
+
+Seeing how my mind works, I could identify 4 fundamental and synchronous processes, which set the frame allowing for anything else:
+1. intentionality
+2. performativity
+3. synthesis
+4. intersubjectivity
+
+There is no hierarchy here, as they all try to describe a basic way in which the mind works. Unfortunately, as everything happens constantly together, some concepts will be overlapping - sorry for the inconvenience.
+
+1. Intentionality
+
+Firstly, there seems to be no beginning, and no end of thought. I could not identify any moment 0, where my mind would be empty; on the contrary, whether I dream, meditate, love, fear or ponder over some silly question, I always find myself already in the midst of a continuous flow of thoughts. Besides being continuous, it seems to me that the essential aspect of this flow would be its ability to direct the mind: however made it might be, it will always be limited, and thus presenting a limited amount of options to the mind, therein shaping its global direction. There is a tradition (phenomenology) of calling this phenomenon intentionality, which I'd like to join. Basically, the whole model including the 2-layer division is an attempt to explain the intentionality of the mind. 
+
+2. Performativity
+
+Secondly, my mind has the ability to change its own reality. Thought seems to exist by the very act of being thought. There is a tradition (cartesian and language philosophy) of calling this phenomenon performativity, which I'd like to join. It means that whatever crosses my mind is basically true (for me) and thus part of me, just because it was caught be my attention.
+
+In the 2-layers Model, performativity would describe the assignment of a thought to an active emotional content. It can be pictured as a typewriter: the focal point of my consciousness (my attention) singles out one part of this flow and integrates it to the memory, just like the type bar hits the ink-ribbon of the machine, and prints a letter on the paper behind it. Of course, it might only happen to a tiny fraction of all potential thought, though this little fraction suddenly becomes crucial: as it links with the active pool of thoughts, the emotional weight it carries will alter the current balance, slightly diverting the flow or thoughts. Thus, whatever I'm thinking about has an immediate effect upon all my thoughts, past present or future. Indeed, the performativity of the mind seems to be a double one: not only the mind creates itself at any given time, but this creation will also affect all other cognitive activity.***
+
+Perfomativity par excellence seems to be acting: if I consider doing stuff simply as a specific mode of thought, perhaps next to another one, where I only think (speculate) about stuff, think-acting produces an immediate change of reality, readily perceivable in the movement of my body, and all its consequences. While not necessary altering my current flow of thought the way speculative thinking would do it, a change of mind is still noticeable, especially when considering activities like jogging or having sex.
+
+3. Synthesis
+
+Thirdly, my mind appears to be limited. Instead of holding up as many thoughts as possible, it constantly scans for similarities, from which to subsume a batch of thoughts within a new one. There is a tradition (Philosophy in general) of calling this phenomenon synthesis, which I'd like to join. The way I see it, a synthesis is basically a connection and a simplification: separated elements showing common traits are linked together, while the link itself is becomes a new element. My guess would be that this is where the core optimization job is done, and the "accident" happened. 
+
+Since the mind seems defined by its constant activity (see 1), I think the first job of consciousness would be to maintain a certain level of activity, through the creation of recurrent structures:
+
+Instead of a simple stimuli-reaction model,
+
+input -> treatment -> output
+
+consciousness creates its own input, to stay alive:
+
+input -> consciousness <-> consciousness -> output
+
+Thus, in the 2-layers Model, a synthesis could describe the creation of such a recurrent node, or closed loop, simply by linking elements active together, either through chronology or topology. This loop could than be operated in two ways:
+
+a) In presence of a lot of emotional content, and thus a lot of active elements, the process would concentrated the emotional content of many into a new one, therein lowering the global excitement, and allowing for further processing. This would be the synthetic mode. 
+
+b) When the overall situation calms down, and less emotional content is available, accessing the central element of a synthesis would automatically activated all linked elements, multiplying the emotional content, and again, allow for further processing. This would be the analytic mode.
+
+A this point, my entire conscious live could be reduced to a switch between those modes, since they control the quantity of emotional content at each moment. Attention would simply be the tip of that switch. Furthermore, it seems obvious that some nodes might be more interesting than other ones in this balancing operation, especially those linking a lot of elements together. The largest possibly synthesis at a given time could be identified with what we usually call "me", and the amount of active elements (and subsyntheses) of "me" define the range of performativity of the current state of mind. In this sense, "Me" shrinks and grows according to the overall optimization performance of consciousness, which could explain many human behaviors, including the need to practice philosophy :) Aside from this, I purposely leave open here the possibility of rival mega-syntheses. For an instance, a very particular synthesis seems indeed to be sleeping: whatever synthesis operating then seems to reach much farther than the one active when awake, which leads me to speculate that sleep is induced by one of those mega-syntheses in order to balance the overall load of the "me" synthesis.
+
+4. Intersubjectivity
+
+And finaly, my mind is open. The building stones making up my subjective life seem to range beyond little "me", allowing communication with other minds. There is a tradition (psychology, late philosophy) of calling this phenomenon intersubjectivity, which I'd like to join. This one might appear tricky: how could some part of my mind be outside it ? To solve it, it propose the concept of shared-consciousness: some syntheses which appear to be impossible for the individual mind, like those setting the scope of "me" could be borrowed from the cultural pool of my social environment. Their underlying emotional structure might be present from birth on, but they become only performative (activated) upon establishing contact with other minds, creating some sort of meta-synthesis. While allowing for all the advantages of extensive communication (learning, solidarity), these meta-syntheses suppose something like an emotional debt, since they require this contact, thus hard-coding the quest for others in the mind. Upon witnessing the power of those meta-sytheses. (all traditions, mobs and other collective behaviors) one might ask for a tickle-back structure, able to restrain/balance it. While any form of direct control seems illusionary, I do think some steering is possible, through religion for an instance. Ritualized collective visions seem to reach further than my own mind, and can indeed evolve.
+
+This conclude the short list of fundamental processes of the mind. Of course, this list couldn't possibly subsume all different modi in which the mind appears to work. Yet seeing how organically research projects like this one seems to evolve, it seems smart to start with clear overview, rather than an exhaustive one. Nevertheless, should someone come up with a thought not represented by either of these 4 processes, I would be glad to discuss it here.
+
+III. Physics
+
+As promised, here some thoughts on how to translate what has just been said into machine language. Since I only understand a fractional part of cpu and software engineering, I can only sketch how I would envisioned the software to work, and hope this sketch won't rely on too many misunderstandings. Of course, I also hope this final part will grow from errors, and turn into something approaching feasibility.
+
+1. General design considerations
+
+Based on just how short the above list of processes is, it seems clear that the intelligent part of this model relies more in its calibration, than in its engine; yet the starting conditions of the engine is the calibration. Thus, I suppose we need a way of writing the software allowing for both clarity and maximum efficiency. Therefore, I naturally turned to assembly, when looking for an interesting compiler. For a start, traceability (knowing exactly what the machine does when) seems more important than syntax.
+
+2. Three Levels
+
+Since everything seems to begin with raw emotional data, a continuous flux of data would probably be a good place to start with. Perhaps a custom hardware driver for a soundcard or a webcam/screen. Once the drivers is running, as second application would be required to handle the data, this one being recursive and able to call itself a given amount of times. And finally, at least as long as we are working on the filters, a third application will probably required to translate whatever the second application stack is doing into a human readable form (traceability). Here I'm thinking about a 3d mapping, similar to EEGs. The AI itself should become reactive through the driver tickleback. 
+
+3. Information modelling
+
+To me, the first question to be asked is how should emotional data be represented ? While simply simulating billions of neurones seems tempting, it's not technically feasible yet, and would also probably not yield the expected results: neurones and cpus just don't work the same way. Supposing neurones a nature's best way to handle information, the question would therefore be: what's the best way to use binary processing electronics - or, what's how can we store and process a maximum of information with a minimum of bits and cpu cycles ? This appears to be a classical storage virtualization problem.
+
+One idea could work as follows: the current state of mind of the AI is represented with one giant binary number. Say 10^20 bits, or a series of 10^20 ones and zeros. Each bit is one node, that could be active or not, and tied to a very specific data, some of it very basic, like 1kb in the 10^17 range could be linked with the webcam input. And some of it very abstract. 
+
+The whole emotional managing operation could be done by applying masks upon that giant number. Starting with a few hard coded masks, an infinite amount of new masks could be computed through dimensional mathematics / matrix operations according to preset rules (the 4 processes) and constantly alter the giant number. For an instance, the overall goal could be set as a fixed balance between active and inactive nodes ( 0 and 1 in the giant number). "Attention" would be a process scanning for addresses with large numbers of similar nodes, synthesis a batch of masks yielding more zeros and analysis the same masks reversed. Which masks to apply would be determined by the area affected. Since one masks turns some nodes off, and some others one a the same time, the chain would go on and on, until reaching a tipping point towards chaos, at which point a larger type of mask would be computed an applied. 
+
+Notes
+
+* A simple way to picture the difference between objective and subjective as used here would be a child at play. Where one might only see a 4-year-old waving a wooden stick while wearing a silly pan on his head, the child sees a great knight fighting against fantastic enemies.
+
+** In my humble opinion, this is where and why a philosophical point of view might be of some help in the process of an AI-birth. Some time ago, I wrote an metaphor in german, to help picture the problem:
+«Wie kann ich denn etwas denken, was mir erlaubt zu denken? Unsere Lage befindet sich halbwegs zwischen dem Aufraümen zweier voller Regale ohne Zwischenlagerplatz und dem Auseinandernehmen eines Kfz-Motors in voller Geschwindigkeit, während wir selbst im Auto sitzen. Darauf gibt es meines Erachtens zwei mögliche Antworten: entweder eine Beobachtungsmethode zu finden, die uns eine gewisse Distanz zum Gegenstand schafft, oder die Untersuchung innerhalb unseres engen Spielraums fortzusetzen. Die erstere würde uns den in der ersten beschriebenen Situation benötigten Zwischenlagerplatz schaffen, aber das Automobil der zweiten Situation lahm legen. Die zweite würde den Motor säubern, aber dafür nie den Boden der Regale vollständig zum Licht bringen. Die erstere könnten wir vorsichtig Psychologie nennen, die zweite Philosophie. Nun ist es für diese Fragestellung wohl weiser auf Vollständigkeit und damit absolute Gültigkeit zu verzichten, als eine künstliche Sondersituation herzustellen worin diese gewährt sei, aus dem guten Grunde, dass wir Menschen uns immer wieder irren, und es meines Erachtens interessanter ist mit diesen Irrtümern zu arbeiten, als zu versuchen, sie von vorn herein zu vermeiden, mit dem Risiko einen Konstrukt als wahr zu brandmarken.»
+
+*** For a more extensive example of how performativity works, see the short essay about the uses and misuses of causality.
+
+Kirchzarten, June 2014
